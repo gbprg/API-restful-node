@@ -1,0 +1,11 @@
+18-09-2023 17:13:43 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+18-09-2023 17:13:43 [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.8tuuqf0.mongodb.net[39m
+18-09-2023 17:14:53 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:11:40 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:15:50 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:16:53 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:24:29 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:26:14 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:35:33 [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+19-09-2023 16:38:50 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
+19-09-2023 16:43:42 [31merror[39m: [31mErro ao conectar ao banco de dados![39m
